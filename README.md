@@ -1,13 +1,13 @@
 # PyQt5_faceReognise
 
 ## Introduction
-    this is a project using PyQt5 GUI to show the face rocognise results. 
+this is a project using PyQt5 GUI to show the face rocognise results. 
   
-    run this project,make sure you have the tensorflow and facenet foundation knowledge.
+run this project,make sure you have the tensorflow and facenet foundation knowledge.
 
-    the recognise result has two methods:web_url、open local file
+the recognise result has two methods:web_url、open local file
  
-    the recognise model can recogise parts of idols、gyms、politicians.more detail ,please reference the classiy.py .
+the recognise model can recogise parts of idols、gyms、politicians.more detail ,please reference the classiy.py .
 
 ## Dependencies
 
